@@ -4,10 +4,10 @@ My career portfolio using a freehtml5 template as a base, work always in progres
 
 ## --FREEHTML5 README Notes below--
 
-TITLE: Jared's Portfolio
+TITLE: Jared's Portfolio  
 Singular - Responsive Free HTML5 Bootstrap Template
 
-AUTHOR: Jared Morgan
+AUTHOR: Jared Morgan  
 DESIGNED & DEVELOPED by FREEHTML5.co
 
 Website: http://freehtml5.co/
