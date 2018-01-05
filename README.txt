@@ -1,8 +1,13 @@
+# My Portfolio
 
-TITLE: 
+My career portfolio using a freehtml5 template as a base, work always in progress!
+
+## --FREEHTML5 README Notes below--
+
+TITLE: Jared's Portfolio
 Singular - Responsive Free HTML5 Bootstrap Template
 
-AUTHOR:
+AUTHOR: Jared Morgan
 DESIGNED & DEVELOPED by FREEHTML5.co
 
 Website: http://freehtml5.co/
